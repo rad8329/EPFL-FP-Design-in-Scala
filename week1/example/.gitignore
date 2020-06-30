@@ -1,0 +1,7 @@
+# empty gitignore, to be able to commit initial src directory layout
+target
+project/project
+project/target
+src/target
+.idea
+.cue
